@@ -1,6 +1,8 @@
 NAMA : TULUS AMRU
 NIM : 23146002
 
+Link aplikasi Streamlit :https://diabetes-lokasi-kopi-fwbogddltaucugwhajwfcl.streamlit.app/
+
 Prediksi Diabetes dan Clustering Lokasi Gerai Kopi
 Penjelasan Proyek
 
